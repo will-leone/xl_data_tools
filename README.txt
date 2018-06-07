@@ -1,0 +1,1 @@
+This module provides convenient objects for pulling, cleaning, and writing data between Excel and Python.
