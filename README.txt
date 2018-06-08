@@ -1,1 +1,1 @@
-This module provides convenient objects for pulling, cleaning, and writing data between Excel and Python.
+This module assist in pulling/cleaning CSV tables and exporting them as well-formatted Excel reports with tables of data on each labelled sheet.
