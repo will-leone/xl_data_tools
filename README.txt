@@ -1,1 +1,1 @@
-This module assist in pulling/cleaning CSV tables and exporting them as well-formatted Excel reports with tables of data on each labelled sheet.
+This module assists in pulling/cleaning CSV tables and exporting them as well-formatted Excel reports with tables of data on each labelled sheet.
